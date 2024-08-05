@@ -1,4 +1,4 @@
-ThisOn initial visit to the website, it will show the list of foods for users to order
+Food List Website
 
 
 ● Fetch the food results from the provided API and format them into client readable results. You may want to transform the food list into pagination
